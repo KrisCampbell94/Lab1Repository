@@ -8,3 +8,5 @@ Lab 3 Build has been added September 28th, 2017
 Lab 4 Build has been added October 5th, 2017
 
 Lab 5 Build has been added November 25th, 2017
+
+Lab 6 Build has been added December 14th, 2017
